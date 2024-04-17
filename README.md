@@ -6,7 +6,8 @@
 - Padilla Donato Luis Fabian
 - Presas Martinez Alan Ricardo
 - Avalos Torres edson alexander
-- 
+- Contreras Luna Allen Yair
+  
 # Descripción del proyecto
 Ayudar a los jóvenes a aprender inglés de manera interactiva y fácil, enseñar palabras y oraciones y todo esto de manera interactiva y llamativa con personajes como pessi y camellonaldo. A través de una interfaz interactiva y llamativa al ojo del usuario, que se busca sea fácil para el usuario interactuar en nuestra plataforma
 
